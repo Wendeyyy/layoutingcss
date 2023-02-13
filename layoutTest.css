@@ -1,0 +1,123 @@
+*, html, body {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+    border: 1px solid #000;
+}
+
+.div1 {
+    width: 100%;
+    height: 100px;
+    background: #ff0000;
+}
+
+.div2 {
+    width: 50%;
+    height: 200px;
+    background: #00ff00;
+    float: left;
+}
+
+.div3 {
+    width: 50%;
+    height: 200px;
+    background: #0000ff;
+    float: right;
+}
+
+.div4 {
+    width: 100%;
+    height: 50px;
+    background: #ffff00;
+    clear: both;
+}
+
+.div5 {
+    width: 33.3%;
+    height: 200px;
+    background: #ff00ff;
+    float: left;
+}  
+
+.div6 {
+    width: 33.3%;
+    height: 200px;
+    background: #00ffff;
+    float: left;
+}
+
+.div7 {
+    width: 33.3%;
+    height: 200px;
+    background: #ff0000;
+    float: left;
+}
+
+.div8 {
+    width: 100%;
+    height: 50px;
+    clear: both;
+    background: #00ff00;
+}
+
+.div9 {
+    width: 25%;
+    height: 100px;
+    float: left;
+    background: #0000ff;
+}
+
+.div10 {
+    width: 25%;
+    height: 100px;
+    float: left;
+    background: #ffff00;
+}
+
+.div11 {
+    width: 25%;
+    height: 100px;
+    float: left;
+    background: #ff00ff;
+}
+
+.div12 {
+    width: 25%;
+    height: 100px;
+    float: left;
+    background: #00ffff;
+}
+
+.div13 {
+    width: 25%;
+    height: 50px;
+    float: left;
+    background: #ff0000;
+}
+
+.div14 {
+    width: 75%;
+    height: 50px;
+    float: left;
+    background: #00ff00;
+}
+
+.div15 {
+    width: 75%;
+    height: 50px;
+    float: left;
+    background: #0000ff;
+}
+
+.div16 {
+    width: 25%;
+    height: 50px;
+    float: left;
+    background: #ffff00;
+}
